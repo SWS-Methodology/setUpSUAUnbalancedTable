@@ -1,0 +1,11 @@
+current: qa
+all:
+  share: S:/
+qa:
+  certdir: C:/Users/Golini/Documents/RCertificateFiles/QA
+  server: https://hqlqasws1.hq.un.fao.org:8181/sws
+  token: b2ddf5c0-1e69-4e68-a39a-ecb6091e93fc  
+production:
+  certdir: C:/Users/Golini/Documents/RCertificateFiles/Production
+  server: https://hqlprswsas1.hq.un.fao.org:8181/sws
+  token: b2ddf5c0-1e69-4e68-a39a-ecb6091e93fc   
